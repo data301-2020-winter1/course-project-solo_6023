@@ -19,3 +19,4 @@ This dataset comes from the government of the United States of America. This dat
 
 ## References
 https://www.fueleconomy.gov/feg/download.shtml
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2009_Nissan_Xterra_--_08-29-2009.jpg/250px-2009_Nissan_Xterra_--_08-29-2009.jpg
