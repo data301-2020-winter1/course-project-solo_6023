@@ -18,5 +18,5 @@ This dataset comes from the government of the United States of America. This dat
 - **Mason Plested**: It's me! I'm here! I need upper-level COSC credits in order to get my degree! I'm not sure what to put here.
 
 ## References
-https://www.fueleconomy.gov/feg/download.shtml
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2009_Nissan_Xterra_--_08-29-2009.jpg/250px-2009_Nissan_Xterra_--_08-29-2009.jpg
+- https://www.fueleconomy.gov/feg/download.shtml
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2009_Nissan_Xterra_--_08-29-2009.jpg/250px-2009_Nissan_Xterra_--_08-29-2009.jpg
