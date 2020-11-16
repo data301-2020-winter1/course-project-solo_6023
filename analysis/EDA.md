@@ -11,3 +11,5 @@ Something else of note is that our MPG is recoreded as categorical. This is inte
 
 Thankfully, it seems our data doesn't contain any outliers. I did remove duplicate values BEFORE the analysis, because I knew that would get flagged due to sloppy data processing when I imported the data. I removed values from the data I didn't need but forgot that some of that data produced differences between models that otherwise had none. For some reason, Pandas "drop_duplicates" function didn't seem to work inside my function chain, so it is preformed in this document. I will save the cleaned and edited CSV to the processed folder!
 
+![](https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-15_19-33-47.png?raw=true)
+![](https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-15_19-34-02.png?raw=true)
