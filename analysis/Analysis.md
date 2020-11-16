@@ -8,7 +8,7 @@ Cool! Now I've fixed the MPG section of the dataset, and we can move forward wit
 
 Let's see the graph for the first one:
 
-!(Number of vehicles by type)[/Users/Mason/cosc301/course-project-solo_6023/images/chrome_2020-11-15_18-49-37.png]
+!(Number of vehicles by type)[https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-15_18-49-37.png]
 
 **Interesting!** This honestly suprised me a bit, I would have figured there'd be more SUVs! We do however see that between small SUVs and large SUVs, there are more SUV models in 2020 than small cars, collectively. Let's take a look at the fuel economy of these models and compare them!
 
