@@ -8,11 +8,11 @@ Cool! Now I've fixed the MPG section of the dataset, and we can move forward wit
 
 Let's see the graph for the first one:
 
-![NumVehicles](https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-15_18-49-37.png?raw=true)
+![NumVehicles](https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-25_11-00-54.png?raw=true)
 
 **Interesting!** This honestly suprised me a bit, I would have figured there'd be more SUVs! We do however see that between small SUVs and large SUVs, there are more SUV models in 2020 than small cars, collectively. Let's take a look at the fuel economy of these models and compare them!
 
-![Fuel economy of vehicles by type](https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-15_18-47-09.png?raw=true)
+![Fuel economy of vehicles by type](https://github.com/data301-2020-winter1/course-project-solo_6023/blob/main/images/chrome_2020-11-25_11-01-30.png?raw=true)
 
 Okay, this is really cool! We can absoultely identify which vehicles on this graph are electic, since the data source calculates an approximate of MPG for electric vehicles which puts them well above 100 MPG. We can see that there is a considerable difference in the average fuel economy of a small SUV versus a standard SUV, which shouldn't be suprising. Larger vehicles *would* use more fuel, that makes sense. Comparing small, midsize, and large cars, we can see the same trend; Larger vehicles use mroe fuel!
 
